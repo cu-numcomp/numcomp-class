@@ -12,7 +12,7 @@ Office Hours: Mon/Fri 10-11am, Thu 2-3:15pm, or by appointment.
 
 * [2019-01-14: First day](https://classroom.github.com/a/TH7aGVZp)
 * 2019-01-16
-* 2019-01-21
+* 2019-01-21: [Homework 1: Rootfinding](https://classroom.github.com/a/PncpaPPY)
 * 2019-01-23
 * 2019-01-28
 * 2019-01-30
