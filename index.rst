@@ -12,6 +12,11 @@ CSCI-3656 Numerical Computation
    Syllabus
 
 .. toctree::
+  :caption: Lecture Notebooks:
+
+  Rootfinding.ipynb
+   
+.. toctree::
    :maxdepth: 2
    :caption: Contents:
 

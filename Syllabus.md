@@ -124,7 +124,7 @@ This course will follow a collection of Jupyter notebooks.  The notebooks are in
 * [Driscoll and Braun (2017), **Fundamentals of Numerical Computation**](http://bookstore.siam.org/ot154/) -- another modern and comprehensive book, with [examples and videos](https://github.com/tobydriscoll/fnc-extras).
 * [Sauer (2012), **Numerical Analysis**](https://www.pearson.com/us/higher-education/program/Sauer-Numerical-Analysis-2nd-Edition/PGM223463.html) -- used for this course in other semesters.
 * [Boyd and Vandenberghe (2018), **Introduction to Applied Linear Algebra**](https://web.stanford.edu/~boyd/vmls/) -- practical introduction to linear algebra for computer scientists; free PDF
-* [Trefethen and Bau (1997), **Numerical Linear Algebra**](http://bookstore.siam.org/ot50/) -- fantastic, but limited to numerical linear algebra and covers more advanced topics.
+* [Trefethen and Bau (1997), **Numerical Linear Algebra**](http://bookstore.siam.org/ot50/) ([PDF via library](http://libraries.colorado.edu/record=b8207383~S3)) -- fantastic, but limited to numerical linear algebra and covers more advanced topics; free PDF via library
 * [Eijkhout (2017), **Introduction to High-Performance Scientific Computing**](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html) -- includes introductory numerical linear algebra from a performance standpoint; free PDF.
 * [Scopatz and Huff (2015), **Effective Computation in Physics**](http://physics.codes/) -- Python language, data science workflow, and computation.
 
