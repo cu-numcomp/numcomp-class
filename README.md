@@ -15,7 +15,7 @@ Office Hours: Mon/Fri 10-11am, Thu 2-3:15pm, or by appointment.
 * 2019-01-21: [Homework 1: Rootfinding](https://classroom.github.com/a/PncpaPPY)
 * 2019-01-23: [Activity: Newton](https://classroom.github.com/a/Mllopi2a)
 * 2019-01-28: [Activity: Conditioning](https://classroom.github.com/a/s25NU3NK)
-* 2019-01-30
+* 2019-01-30: [Activity: Stability](https://classroom.github.com/a/jfr0-rL8)
 * 2019-02-04
 * 2019-02-06
 * 2019-02-11
