@@ -8,7 +8,12 @@ Meeting Time: TR 9:30-10:45pm in HALE 230
 
 [Jed Brown](https://jedbrown.org), [<tt>jed.brown@colorado.edu</tt>](mailto:jed.brown@colorado.edu), ECOT 824
 
-Office Hours: Mon/Fri 10-11am, Thu 2-3:15pm, or by appointment.
+#### Office Hours
+* Jed: Mon/Fri 10-11am, Thu 2-3:15pm, or by appointment.  ECOT 824.
+* Nithin (GSS): Wed 2:30-3:30pm in CSEL.
+
+Follow [this calendar](https://calendar.google.com/calendar/embed?src=2f9tod3nku1e610nno9f0b42ec%40group.calendar.google.com&ctz=America%2FDenver)
+for updates/exceptions
 
 ## Overview
 
