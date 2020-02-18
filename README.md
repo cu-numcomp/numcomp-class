@@ -15,36 +15,36 @@ for updates/exceptions
 
 ## Activities
 
-* [2019-01-14: First day](https://classroom.github.com/a/TH7aGVZp)
-* 2019-01-16
-* 2019-01-21: [Homework 1: Rootfinding](https://classroom.github.com/a/PncpaPPY)
-* 2019-01-23: [Activity: Newton](https://classroom.github.com/a/Mllopi2a)
-* 2019-01-28: [Activity: Conditioning](https://classroom.github.com/a/s25NU3NK)
-* 2019-01-30: [Activity: Stability](https://classroom.github.com/a/jfr0-rL8)
-* 2019-02-04: Canceled due to weather
-* 2019-02-06: [Activity: Geometry of Linear Transformations](https://classroom.github.com/a/TYpT2cVK)
-* 2019-02-11
-* 2019-02-13
-* 2019-02-18
-* 2019-02-20
-* 2019-02-25
-* 2019-02-27
-* 2019-03-03
-* 2019-03-05 Midterm
-* 2019-03-10
-* 2019-03-12
-* 2019-03-17
-* 2019-03-19
-* 2019-03-31
-* 2019-04-02
-* 2019-04-07
-* 2019-04-09
-* 2019-04-14
-* 2019-04-16
-* 2019-04-21
-* 2019-04-23
-* 2019-04-28
-* 2019-04-30 (last day of classes)
+* 2020-01-14: [First day activity](https://classroom.github.com/a/TH7aGVZp)
+* 2020-01-16
+* 2020-01-21: [Homework 1: Rootfinding](https://classroom.github.com/a/PncpaPPY)
+* 2020-01-23: [Activity: Newton](https://classroom.github.com/a/Mllopi2a)
+* 2020-01-28: [Activity: Conditioning](https://classroom.github.com/a/s25NU3NK)
+* 2020-01-30: [Activity: Stability](https://classroom.github.com/a/jfr0-rL8)
+* 2020-02-04: Canceled due to weather
+* 2020-02-06: [Activity: Geometry of Linear Transformations](https://classroom.github.com/a/TYpT2cVK)
+* 2020-02-11: Moodle "quiz" on projections
+* 2020-02-13
+* 2020-02-18: [Homework 2: QR factorization of polynomials](https://classroom.github.com/a/5tD28CoO), due 2020-02-28
+* 2020-02-20
+* 2020-02-25
+* 2020-02-27
+* 2020-03-03
+* 2020-03-05 Midterm
+* 2020-03-10
+* 2020-03-12
+* 2020-03-17
+* 2020-03-19
+* 2020-03-31
+* 2020-04-02
+* 2020-04-07
+* 2020-04-09
+* 2020-04-14
+* 2020-04-16
+* 2020-04-21
+* 2020-04-23
+* 2020-04-28
+* 2020-04-30 (last day of classes)
 * Final projects (team presentations and peer evaluation in groups)
 
 ## Git and Jupyter
