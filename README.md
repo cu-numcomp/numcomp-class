@@ -26,7 +26,7 @@ for updates/exceptions
 * 2020-02-11: Moodle "quiz" on projections
 * 2020-02-13
 * 2020-02-18: [Homework 2: QR factorization of polynomials](https://classroom.github.com/a/5tD28CoO), due 2020-02-28
-* 2020-02-20
+* 2020-02-20: [Activity: QR](https://classroom.github.com/a/yxqxO6I4)
 * 2020-02-25
 * 2020-02-27
 * 2020-03-03
