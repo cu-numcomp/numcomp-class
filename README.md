@@ -27,7 +27,14 @@ for updates/exceptions
 * 2020-02-13
 * 2020-02-18: [Homework 2: QR factorization of polynomials](https://classroom.github.com/a/5tD28CoO), due 2020-02-28
 * 2020-02-20: [Activity: QR](https://classroom.github.com/a/yxqxO6I4)
-* 2020-02-25
+* 2020-02-25: Resources: LAPACK
+  [`dgeqrf`](http://www.netlib.org/lapack/explore-html/dd/d9a/group__double_g_ecomputational_ga3766ea903391b5cf9008132f7440ec7b.html#ga3766ea903391b5cf9008132f7440ec7b)
+  to compute QR factorization in-place,
+  [`dormqr`](http://www.netlib.org/lapack/explore-html/da/dba/group__double_o_t_h_e_rcomputational_ga17b0765a8a0e6547bcf933979b38f0b0.html#ga17b0765a8a0e6547bcf933979b38f0b0)
+  to apply action of Q to a matrix C in-place. Compare [Julia's
+  `qr`](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/index.html#LinearAlgebra.qr),
+  which is simultaneously a full and reduced factorization, with
+  Python's, which flattens to naive representation of Q.
 * 2020-02-27
 * 2020-03-03
 * 2020-03-05 Midterm
