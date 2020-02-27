@@ -8,6 +8,7 @@ Meeting Time: Tue/Thu 9:30-10:45pm in HALE 230
 
 #### Office Hours
 * Jed: Mon/Fri 10-11am, Thu 2-3:15pm, or by appointment.  ECOT 824.
+* Sourav (GSS): Friday 3-4pm in CSEL.
 * Nithin (GSS): Wed 2:30-3:30pm in CSEL.
 
 Follow [this calendar](https://calendar.google.com/calendar/embed?src=2f9tod3nku1e610nno9f0b42ec%40group.calendar.google.com&ctz=America%2FDenver)
@@ -35,7 +36,7 @@ for updates/exceptions
   `qr`](https://docs.julialang.org/en/v1/stdlib/LinearAlgebra/index.html#LinearAlgebra.qr),
   which is simultaneously a full and reduced factorization, with
   Python's, which flattens to naive representation of Q.
-* 2020-02-27
+* 2020-02-27: Quiz and Midterm study guide
 * 2020-03-03
 * 2020-03-05 Midterm
 * 2020-03-10
@@ -72,3 +73,5 @@ Please enroll in this class on [Moodle](https://moodle.cs.colorado.edu).
 ## Notebooks
 
 * [Introduction](Introduction.ipynb)
+* [Linear Algebra](LinearAlgebra.ipynb)
+* [Interpolation](Interpolation.ipynb)
