@@ -41,7 +41,7 @@ for updates/exceptions
 * 2020-03-05 Midterm
 * 2020-03-10: [Activity: low-rank matrices](https://classroom.github.com/a/3tcazAPR)
 * 2020-03-12
-* 2020-03-17: [Activity: polynomial interpolation](https://classroom.github.com/a/irhC2GPw)
+* 2020-03-17: [Activity: polynomial interpolation](https://classroom.github.com/a/irhC2GPw) [Recorded Zoom](https://moodle.cs.colorado.edu/pluginfile.php/215050/mod_label/intro/zoom_0.mp4)
 * 2020-03-19
 * 2020-03-31
 * 2020-04-02
