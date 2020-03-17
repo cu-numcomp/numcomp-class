@@ -1,4 +1,24 @@
-# Syllabus
+# Syllabus: COVID-19 Update
+
+* We've gone entirely virtual and our strategy going forward will be informed by the [survey results](survey.md).
+* We use [this Zoom meeting](https://cuboulder.zoom.us/j/595752781) for:
+  * Live meetings at the usual lecture period time (TR 9:30-10:45).
+  * Office hours as posted on the calendar.
+  * As an open room that people can drop in any time to talk with peers.  Jed or a GSS will join the
+    room during office hours and on request (best effort).
+* Recordings of these Zoom meetings will be posted on Moodle.
+* We created a Piazza.  You should have gotten an invite, or can follow a link from Moodle.  Please
+  start new discussions and comment on threads there.
+* Group presentations of small individual projects is postponed until after break.  You'll have a
+  choice of whether to record a 5-minute video presentation or write a 1-pager+figures, then we'll
+  have a couple days of open discussion within groups.
+* The Participation/Activity and Homework categories will be merged.  We won't have the more
+  in-depth homeworks from here on out, but will have more activities, often with open-ended
+  questions toward the end.  This is largely a participation grade (don't stress if you don't get
+  everything working; you can still get full credit, but please discuss what you don't understand in
+  Piazza, Zoom, GitHub issues, etc.).
+
+# Original Syllabus
 
 CU Boulder: CSCI 3656 (Spring 2020)
 
