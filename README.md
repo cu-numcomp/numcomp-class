@@ -43,7 +43,7 @@ for updates/exceptions
 * 2020-03-12
 * 2020-03-17: [Activity: polynomial interpolation](https://classroom.github.com/a/irhC2GPw) [Recorded Zoom](https://moodle.cs.colorado.edu/pluginfile.php/215050/mod_label/intro/zoom_0.mp4)
 * 2020-03-19: [Activity: piecewise interpolation](https://classroom.github.com/a/6X2SJqLT) [Recorded Zoom](https://moodle.cs.colorado.edu/pluginfile.php/215144/mod_label/intro/zoom_0.mp4)
-* 2020-03-31
+* 2020-03-31: [Activity: bias-variance tradeoff](https://classroom.github.com/a/_Q_aBs49)
 * 2020-04-02
 * 2020-04-07
 * 2020-04-09
