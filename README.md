@@ -1,4 +1,4 @@
-# CSCI-3656 Numerical Computation
+g# CSCI-3656 Numerical Computation
 
 ## Quick info from the [Syllabus](Syllabus.md)
 
@@ -76,3 +76,4 @@ Please enroll in this class on [Moodle](https://moodle.cs.colorado.edu).
 * [Linear Algebra](LinearAlgebra.ipynb)
 * [Interpolation](Interpolation.ipynb)
 * [Regression](Regression.ipynb)
+* [Differentiation](Differentiation.ipynb)
