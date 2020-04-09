@@ -46,7 +46,7 @@ for updates/exceptions
 * 2020-03-31: [Activity: bias-variance tradeoff](https://classroom.github.com/a/_Q_aBs49)
 * 2020-04-02: Introduction of regression as optmization; assign reading for next class: [Numerical Differentiation](https://moodle.cs.colorado.edu/mod/lti/launch.php?id=46786) (check your email for access code)
 * 2020-04-07: [Activity: numerical differentiation](https://classroom.github.com/a/FqTV2mHY)
-* 2020-04-09
+* 2020-04-09: [Activity: regression](https://classroom.github.com/a/O16BL_QU)
 * 2020-04-14
 * 2020-04-16
 * 2020-04-21
