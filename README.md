@@ -1,4 +1,4 @@
-g# CSCI-3656 Numerical Computation
+# CSCI-3656 Numerical Computation
 
 ## Quick info from the [Syllabus](Syllabus.md)
 
