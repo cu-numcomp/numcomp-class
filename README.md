@@ -49,7 +49,7 @@ for updates/exceptions
 * 2020-04-09: [Activity: regression](https://classroom.github.com/a/O16BL_QU)
 * 2020-04-14: [Individual Project](https://classroom.github.com/a/0V7S6YGm) and [Activity: surface projections](https://classroom.github.com/a/VVoYtqc7)
 * 2020-04-16
-* 2020-04-21
+* 2020-04-21: [Activity: integration](https://classroom.github.com/a/VFCFDnsK)
 * 2020-04-23
 * 2020-04-28
 * 2020-04-30 (last day of classes)
