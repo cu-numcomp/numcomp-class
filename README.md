@@ -77,3 +77,5 @@ Please enroll in this class on [Moodle](https://moodle.cs.colorado.edu).
 * [Interpolation](Interpolation.ipynb)
 * [Regression](Regression.ipynb)
 * [Differentiation](Differentiation.ipynb)
+* [Integration](Integration.ipynb)
+* [Differential Equations](DifferentialEquations.ipynb)
