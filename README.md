@@ -52,7 +52,7 @@ for updates/exceptions
 * 2020-04-21: [Activity: integration](https://classroom.github.com/a/VFCFDnsK)
 * 2020-04-23
 * 2020-04-28
-* 2020-04-30 (last day of classes)
+* 2020-04-30 (last day of classes) [Activity: Avalanche control](https://classroom.github.com/a/5Dbw2j9k)
 * Final projects (team presentations and peer evaluation in groups)
 
 ## Git and Jupyter
